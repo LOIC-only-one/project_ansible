@@ -2,7 +2,7 @@
 
 Bienvenue dans le dépôt des playbooks Ansible de base ! Ce dépôt contient une collection de playbooks Ansible pour vous aider à automatiser vos tâches de gestion des configurations et déploiement.
 
-![Ansible Logo](https://upload.wikimedia.org/wikipedia/commons/1/1d/Ansible_logo.png)
+![Ansible Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/832px-Ansible_logo.svg.png)
 
 ## 📜 Description
 
